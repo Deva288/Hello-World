@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 64px;
+}
+body {
+    background-color: yellow;
+}
+p {
+    color: black;
+    font-size: 24px;
+}
+.heading {
+    color: red;
+    
+}
+.awesome {
+    color: red;
+    font-size: 24px;
+}
